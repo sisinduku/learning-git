@@ -1,15 +1,15 @@
-# * About This Repo
+# - About This Repo
 This Repo is About Learning Git and Markdown (.md) based on Hactive8 Preparation phase program. 
 
-# * Used Tags & Syntaxes
+# - Used Tags & Syntaxes
 Tags & Sytanxes that being used are :
 HTML Tags:
-> - <html> 	: HTML Tag
-> - <head>	: Head Tag
-> - <body>	: Body Tag
-> - <img>		: Image Tag
-> - <ul>		: Unordered List Tag
-> - <ol>		: Ordered List Tag
+> - `<html>`: HTML Tag
+> - `<head>`: Head Tag
+> - `<body>`: Body Tag
+> - `<img>`	: Image Tag
+> - `<ul>`	: Unordered List Tag
+> - `<ol>`	: Ordered List Tag
 > - etc
 
 CSS Syntaxes: 
@@ -24,6 +24,7 @@ CSS Syntaxes:
 > - text-decoration
 > - position
 > - cursor
+> - etc
 
-# * About Me
+# - About Me
 Hello My Name is Saptanto Sindu Kuncoro Utomo.
