@@ -28,3 +28,6 @@ CSS Syntaxes:
 
 # - About Me
 Hello My Name is Saptanto Sindu Kuncoro Utomo.
+
+# - Future Plans
+Fullstack Javascript development
